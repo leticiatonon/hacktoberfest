@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Rio de Janeiro, Brasil.
+ - Bio: Digital design and development student.
+ - GitHub: (https://github.com/leticiatonon)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
